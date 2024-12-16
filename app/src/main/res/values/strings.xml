@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eats</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="next">Next</string>
+    <string name="setup_profile">Set Up Your Profile</string>
+    <string name="your_name">Your Name</string>
+    <string name="food_preferences">Food Preferences</string>
+    <string name="search_radius">Search Radius</string>
+    <string name="finish">Finish</string>
+    <string name="swipe">Swipe</string>
+    <string name="groups">Groups</string>
+    <string name="profile">Profile</string>
+    <string name="feedback_hint">Tell us what you think...</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="feedback_dashboard">Feedback Dashboard</string>
+    <string name="export_feedback">Export Feedback</string>
+    <string name="create_group">Create Group</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="edit_preferences">Edit Preferences</string>
+</resources> 
